@@ -1,4 +1,4 @@
-s#!/usr/bin/python3
+#!/usr/bin/python3
 """Modules that prints all integers of a list."""
 
 
